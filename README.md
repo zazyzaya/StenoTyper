@@ -4,7 +4,7 @@ I have no idea why anyone would ever need this
 
 # Requirements:
 python 3   
-pynput
+pynput      
 To obtain pynput, simply use the command
 ```
 pip install pynput
