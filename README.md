@@ -3,6 +3,7 @@ Converts the keyboard into a stenographer's keyboard
 I have no idea why anyone would ever need this    
 
 # Requirements:
+python 3   
 pynput
 To obtain pynput, simply use the command
 ```
