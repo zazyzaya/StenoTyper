@@ -4,6 +4,7 @@ I have no idea why anyone would ever need this
 
 # Mapping
 The keyboard is arranged like this:
+(lowercase letters are qwerty, uppercase is Steno)
 ```
       ____ ____ ____ ____ __ ____ ____ ____ ____ ____   
      /q S /w T /e P/ r H|t * |y F \u P \i L \o T \p D\    
