@@ -2,6 +2,14 @@
 Converts the keyboard into a stenographer's keyboard    
 I have no idea why anyone would ever need this    
 
+# Requirements:
+pynput
+To obtain pynput, simply use the command
+```
+pip install pynput
+```
+and it will be installed
+
 # Mapping
 The keyboard is arranged like this:
 (lowercase letters are qwerty, uppercase is Steno)
@@ -17,6 +25,6 @@ The keyboard is arranged like this:
                    \___|____|____|___/    
 ```
 
-Just like a normal stenophraph, hold down multiple keys to create "chords" and release to print the line    
+Just like a normal stenograph, hold down multiple keys to create "chords" and release to print the line    
 
 [Here's](https://github.com/openstenoproject/plover/wiki/Learning-Stenography) a good source to learn more   
